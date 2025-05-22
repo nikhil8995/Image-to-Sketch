@@ -14,8 +14,11 @@ Convert any photograph into a realistic pencil sketch using OpenCV edge blending
 📁 Project Files
 
 photo-to-sketch/
+
 │
+
 ├── photo_to_sketch_web.py       # Gradio app script
+
 ├── img2sketch.ipynb             # Jupyter notebook version (exploration/training)
 
 🧠 About the CNN
